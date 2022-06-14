@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="a.$mun){Tqw)$K,{:+vY" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="EaqJ$PdI/Ef$^Y=;2yHc"><value name="text"><shadow type="text" id="Q]HPUD%^D4q{~$Y7B_@/"><field name="TEXT">Hola mundo buenos dias</field></shadow></value><next><block type="device_show_leds" id="nN)DwY%[b=2}iRV%kd?p"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></next></block></statement></block><block type="device_forever" id="}pA]rVY]xXfAI}-9.JNY" x="205" y="0"/></xml>
